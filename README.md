@@ -41,4 +41,6 @@ The objective of this task is to:
 ---
 
 ## 📂 Repository Structure
+├── Innomatics.ipynb # Jupyter Notebook containing complete analysis and solution
+├── README.md # Project documentation
 
